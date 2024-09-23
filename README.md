@@ -35,11 +35,11 @@ Para poder poner a prueba lo mencionado y explicado en este workshop, vamos a ne
 
 ```bash
 #AWS
-<<'###'
+: '
 Podes usar esta guia para crear un nuevo set de credenciales.
 Vas a necesitar dichas credenciales en el siguiente paso.
 https://docs.aws.amazon.com/IAM/latest/UserGuide/id_credentials_access-keys.html
-###
+'
 aws configure
 
 #AZURE
